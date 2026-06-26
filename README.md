@@ -1,2 +1,2 @@
-# WardenDefaultAllowList
-The default process path allowlist for the Warden security tool.
+# WardenDefaultAllowLists
+The default allow lists for the Warden linux security tool.
